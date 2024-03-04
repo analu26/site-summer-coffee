@@ -1,2 +1,2 @@
-# site-summer-coffee
+# site-sweet-coffee
 projeto primeiro trimestre
