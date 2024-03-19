@@ -1,5 +1,5 @@
 body{
-    background-color: lavenderblush;
+    background-color: rgb(178, 255, 210);
     color: mintcream;
 }
 .imagem1{
@@ -7,4 +7,8 @@ body{
 }
 .imagemcentralizada{
     text-align: center;
+}
+.lista{
+    text-align: start;
+    width: 45%;
 }
