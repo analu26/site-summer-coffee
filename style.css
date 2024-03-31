@@ -3,7 +3,8 @@ body{
     color: mintcream;
 }
 .imagem1{
-    max-width: max-content;
+    width: max-content;
+    height: 18%;
 }
 .imagemcentralizada{
     text-align: center;
