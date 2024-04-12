@@ -5,6 +5,9 @@ body{
 .imagemcentralizada{
     text-align: center;
 }
+.imagem1{
+    max-width: max-content;
+}
 .lista{
     text-align: start;
     width: 45%;
