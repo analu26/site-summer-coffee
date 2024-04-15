@@ -16,7 +16,8 @@ padding: 24px 0;
 }
 
 .imagem1{
-    width: 100%;
+    text-align: center;
+    width: max-content;
 }
 
 .lista{
