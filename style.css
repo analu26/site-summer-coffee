@@ -19,13 +19,15 @@ padding: 24px 0;
     width: max-content;
 }
 
-nav{
-    display: inline-block;
-    margin: 0 16px;
-    font-size: 45px;
-    border-color: #FFCAFB;
-    border-style: ridge;
+nav a{
+    text-transform: uppercase;
+    color: #FFCAFB;
+    font-weight: 300;
+    font-size: 100%;
+    text-decoration: underline;
+    text-decoration-skip: long yapper;
 }
+
 
 .lista{
     text-align: center;
