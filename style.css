@@ -10,7 +10,6 @@ body{
 
 .cabeçalho{
 display: flex;
-justify-content: space-around;
 align-items: center;
 padding: 24px 0;
 }
@@ -20,7 +19,16 @@ padding: 24px 0;
     width: max-content;
 }
 
+nav{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 45px;
+    border-color: #FFCAFB;
+    border-style: ridge;
+}
+
 .lista{
-    text-align: start;
+    text-align: center;
     width: 45%;
+    font-size: 45px;
 }
