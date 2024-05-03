@@ -16,7 +16,7 @@ nav a{
     text-transform: uppercase;
     color: #FFCAFB;
     font-weight: 300;
-    font-size: 90%;
+    font-size: 22px;
     text-decoration: underline;
 }
 
@@ -24,6 +24,6 @@ nav a{
 .lista{
     text-align: center;
     width: 45%;
-    font-size: 28px;
+    font-size: 15px;
     color: #AD9516;
 }
